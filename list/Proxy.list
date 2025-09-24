@@ -135,13 +135,9 @@ IP-CIDR,161.142.117.0/24,no-resolve
 IP-CIDR,46.3.240.0/24,no-resolve 
 IP-CIDR,45.87.172.0/24,no-resolve 
 
-# AI
-# DOMAIN,ai.opendoor.cn
 
-# 小牛
-# DOMAIN-SUFFIX,xiaoniuyun.cc
 
-DOMAIN-SUFFIX,fastlydns.net
+
 
 
 # 国外DNS
@@ -162,36 +158,13 @@ DOMAIN-SUFFIX,googleapis.com
 DOMAIN-SUFFIX,googleapis.cn
 DOMAIN-SUFFIX,gstatic.com
 DOMAIN-SUFFIX,signalr.net
-DOMAIN-SUFFIX,tiny-vps.com
-DOMAIN-SUFFIX,zemoj.com
-DOMAIN-SUFFIX,code2chicken.nl
-DOMAIN-SUFFIX,rarbg.to
-DOMAIN-SUFFIX,gbitt.info
-DOMAIN-SUFFIX,publictracker.xyz
-DOMAIN-SUFFIX,tace.ru
-DOMAIN-SUFFIX,uifr.ru
-DOMAIN-SUFFIX,nanoha.org
-DOMAIN-SUFFIX,darmowy-torrent.pl
-DOMAIN-SUFFIX,hama3.net
-DOMAIN-SUFFIX,mercax.com
-DOMAIN-SUFFIX,itzmx.com
-DOMAIN-SUFFIX,iriseden.eu
-DOMAIN-SUFFIX,shittyurl.org
-DOMAIN-SUFFIX,i2p.rocks
-DOMAIN-SUFFIX,shittyurl.org
-DOMAIN-SUFFIX,filetracker.xyz
-DOMAIN-SUFFIX,altrosky.nl
-DOMAIN-SUFFIX,leech.ie
 
 
 
 
 
-# 小牛机场
-DOMAIN-SUFFIX,vns735p8.xyz
-DOMAIN-SUFFIX,i4z65c0h.xyz
-DOMAIN-SUFFIX,v140oy1s.xyz
-DOMAIN-SUFFIX,tcb54710.xyz
+
+
 
 DOMAIN-SUFFIX,polymarket.com
 DOMAIN-SUFFIX,cacapex.com
@@ -245,73 +218,14 @@ DOMAIN-SUFFIX,coinglass.com
 DOMAIN-SUFFIX,fiverr.com
 DOMAIN-SUFFIX,ebay.com
 
+DOMAIN-SUFFIX,jable.tv
 
-DOMAIN-SUFFIX,kjfx.cc
 
-DOMAIN-SUFFIX,hlive.io
-DOMAIN-SUFFIX,ndmdhs.com
-DOMAIN-SUFFIX,anygate.vip
-DOMAIN-SUFFIX,yfsp.tv
-DOMAIN-SUFFIX,bitwayeat.com
-DOMAIN-SUFFIX,etcbbi.xyz
-DOMAIN-SUFFIX,etcbbf.xyz
-DOMAIN-SUFFIX,etcbbj.xyz
-DOMAIN-SUFFIX,etcbbi.xyz
-DOMAIN-SUFFIX,etcbbh.xyz
-DOMAIN-SUFFIX,etcbbf.xyz
-DOMAIN-SUFFIX,etcbbg.xyz
-DOMAIN-SUFFIX,bugsnag.com
-DOMAIN-SUFFIX,pipecdn.vip
-DOMAIN-SUFFIX,wyav.tv
-DOMAIN-SUFFIX,tfboyaac.com
-DOMAIN-SUFFIX,tfboyaab.com
-DOMAIN-SUFFIX,aiyifan.tv
-DOMAIN-SUFFIX,tfboyaaa.com
 
-DOMAIN-SUFFIX,canva.com
 
-DOMAIN-SUFFIX,waytogone.com
-DOMAIN-SUFFIX,timeprecei.com
-DOMAIN-SUFFIX,etcbbb.xyz
-DOMAIN-SUFFIX,tfbgbbb.com
-DOMAIN-SUFFIX,tfbgaaa.com
-DOMAIN-SUFFIX,etcbba.xyz
-DOMAIN-SUFFIX,tfboyaae.com
-DOMAIN-SUFFIX,tfboyaad.com
 
-DOMAIN-SUFFIX,polivera.ai
-DOMAIN-SUFFIX,asiassn.com
-DOMAIN-SUFFIX,mmcks.top
-DOMAIN-SUFFIX,needay.xyz
-DOMAIN-SUFFIX,mzzxuh.com
-DOMAIN-SUFFIX,lianjiasub.work
-DOMAIN-SUFFIX,muniucloud.pro
-DOMAIN-SUFFIX,kuajing.uk
-DOMAIN-SUFFIX,metacubex.one
-DOMAIN-SUFFIX,xiaoxintv.cc
-DOMAIN-SUFFIX,69yun.top
-DOMAIN-SUFFIX,nivodi.com
-DOMAIN-SUFFIX,steamcommunity.com
-# DOMAIN-SUFFIX,steampowered.com
-DOMAIN-SUFFIX,abcproxy.com
-DOMAIN-SUFFIX,piliapp.com
-DOMAIN-SUFFIX,meijutt.cc
-DOMAIN-SUFFIX,piaohua.com
-DOMAIN-SUFFIX,ip-api.com
-DOMAIN-SUFFIX,browserscan.net
-DOMAIN-SUFFIX,ipify.org
-DOMAIN-SUFFIX,dnscheck.tools
-DOMAIN-SUFFIX,arin.net
-DOMAIN-SUFFIX,null-addr.com
-DOMAIN-SUFFIX,null-addr.net
-DOMAIN-SUFFIX,null-addr.org
-DOMAIN-SUFFIX,null-addr.biz
-DOMAIN-SUFFIX,null-addr.info
-DOMAIN-SUFFIX,addr.tools
-DOMAIN-SUFFIX,bulianglin.com
-DOMAIN-SUFFIX,coincola.com
-DOMAIN-SUFFIX,coincolacdn.com
-DOMAIN-SUFFIX,colaotc.com
+
+
 
 IP-CIDR,8.8.8.8/32,no-resolve
 IP-CIDR,8.8.4.4/32,no-resolve
